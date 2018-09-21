@@ -1,0 +1,14 @@
+C:\Users\ilidar\source\repos\FinanceManager\UTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ilidar\source\repos\FinanceManager\UTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ilidar\source\repos\FinanceManager\UTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ilidar\source\repos\FinanceManager\UTests\bin\Debug\netcoreapp2.0\UTests.deps.json
+C:\Users\ilidar\source\repos\FinanceManager\UTests\bin\Debug\netcoreapp2.0\UTests.runtimeconfig.json
+C:\Users\ilidar\source\repos\FinanceManager\UTests\bin\Debug\netcoreapp2.0\UTests.runtimeconfig.dev.json
+C:\Users\ilidar\source\repos\FinanceManager\UTests\bin\Debug\netcoreapp2.0\UTests.dll
+C:\Users\ilidar\source\repos\FinanceManager\UTests\bin\Debug\netcoreapp2.0\UTests.pdb
+C:\Users\ilidar\source\repos\FinanceManager\UTests\obj\Debug\netcoreapp2.0\UTests.csprojAssemblyReference.cache
+C:\Users\ilidar\source\repos\FinanceManager\UTests\obj\Debug\netcoreapp2.0\UTests.csproj.CoreCompileInputs.cache
+C:\Users\ilidar\source\repos\FinanceManager\UTests\obj\Debug\netcoreapp2.0\UTests.AssemblyInfoInputs.cache
+C:\Users\ilidar\source\repos\FinanceManager\UTests\obj\Debug\netcoreapp2.0\UTests.AssemblyInfo.cs
+C:\Users\ilidar\source\repos\FinanceManager\UTests\obj\Debug\netcoreapp2.0\UTests.dll
+C:\Users\ilidar\source\repos\FinanceManager\UTests\obj\Debug\netcoreapp2.0\UTests.pdb

@@ -1,0 +1,9 @@
+C:\Users\ilidar\source\repos\FinanceManager\Utils\bin\Debug\netcoreapp2.0\Utils.deps.json
+C:\Users\ilidar\source\repos\FinanceManager\Utils\bin\Debug\netcoreapp2.0\Utils.dll
+C:\Users\ilidar\source\repos\FinanceManager\Utils\bin\Debug\netcoreapp2.0\Utils.pdb
+C:\Users\ilidar\source\repos\FinanceManager\Utils\obj\Debug\netcoreapp2.0\Utils.csprojAssemblyReference.cache
+C:\Users\ilidar\source\repos\FinanceManager\Utils\obj\Debug\netcoreapp2.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\ilidar\source\repos\FinanceManager\Utils\obj\Debug\netcoreapp2.0\Utils.AssemblyInfoInputs.cache
+C:\Users\ilidar\source\repos\FinanceManager\Utils\obj\Debug\netcoreapp2.0\Utils.AssemblyInfo.cs
+C:\Users\ilidar\source\repos\FinanceManager\Utils\obj\Debug\netcoreapp2.0\Utils.dll
+C:\Users\ilidar\source\repos\FinanceManager\Utils\obj\Debug\netcoreapp2.0\Utils.pdb
